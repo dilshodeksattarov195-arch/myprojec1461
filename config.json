@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentrave",
+        "uuid": 9347478,
+        "checksum": "nstdm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
